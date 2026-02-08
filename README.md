@@ -1,5 +1,5 @@
 # Nombre del proyecto
-Base de datos
+Base de datos de una escuela
 # Descripcion
 Sistema de registro de alumnos de una escuela y calificaciones de parciales
 # Motivacion
