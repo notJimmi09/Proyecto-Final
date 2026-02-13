@@ -1,8 +1,8 @@
 # Nombre del proyecto
-Base de datos de una escuela
+Base de datos de liga de futbol
 # Descripcion
-Sistema de registro de alumnos de una escuela y calificaciones de parciales
+Sistema de equipos con jugadores que registrara partidos y estadisticas la liga
 # Motivacion
-Resolver un problematica del mundo real a base de la creacion de una base de datos
+Resolver un problematica de perdida de datos mediante el uso de base de datos
 # Tech Stack
 - SQL
